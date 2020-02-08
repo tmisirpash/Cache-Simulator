@@ -6,3 +6,5 @@ A program that simulates a write-through cache with and without pre-fetching. Ca
   3. N-way associative
 
 This program implements two eviction policies: FIFO and LRU.
+
+Written for CS 211 @ Rutgers Univ.
